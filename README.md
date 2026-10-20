@@ -6,8 +6,7 @@ My background spans mathematics, computer science, and quantitative finance — 
 
 ## Featured Project
 
-**[CryptoLab](https://github.com/neeyamkafle/CryptoLab)** — Cryptography built entirely from mathematical first principles. RSA, Diffie-Hellman key exchange, and cryptographic hashing, implemented from scratch with no external crypto libraries. Includes an honest account of iterating toward (and understanding the limits of) a hash function's avalanche effect.
-
+**[CryptoLab]https://github.com/neeyamkafle/CryptoLab — A cryptography toolkit built from mathematical first principles: RSA, Diffie-Hellman, digital signatures, and classic attacks on misused RSA (common modulus, Fermat factorization, Håstad’s broadcast attack), with no external crypto libraries. Also includes an honest account of trying, and failing, to build a hash function with a real avalanche effect, and what that taught me.
 ## Interests
 
 - Number theory and its applications to cryptography
